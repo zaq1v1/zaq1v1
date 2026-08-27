@@ -26,6 +26,12 @@
 &nbsp;→&nbsp;
 <code>SECURITY</code>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=zaq1v1&style=for-the-badge&color=A855F7" />
+<img src="https://img.shields.io/github/followers/zaq1v1?style=for-the-badge&logo=github&label=Followers&color=181717" />
+<img src="https://img.shields.io/github/stars/zaq1v1?style=for-the-badge&logo=github&label=Stars&color=A855F7" />
+
 </div>
 
 ---
