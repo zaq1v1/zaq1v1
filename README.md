@@ -1,39 +1,105 @@
-<div align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="160" height="160" style="border-radius: 50%;" alt="Avatar"/>
-</div>
+Hi, I'm Void 👋
 
-# Hi, I'm L / Void 🌌⚡
+Developer • Builder • Open Source Enthusiast
+
+I build software, explore new technologies, and turn ideas into useful projects.
 
 <p align="center">
-  <em>Supreme Overlord of Reality, Quantum Physics, Advanced Engineering, and Everything Else</em>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github" />
+</p>---
+
+🚀 Now Building
+
+- 🔨 Building and improving personal projects
+- 🧠 Exploring modern technologies and developer tools
+- ⚡ Improving my development workflow
+- 🌱 Learning through experiments and real-world projects
+- 🌐 Exploring open source
 
 ---
 
-## 🚀 About Me (The Omnipotent Legend)
+🛠️ Tech Stack
 
-- 🔭 **Master of Everything:** Fluent in every known programming language in the universe, ancient hieroglyphics, HTML as a Turing-complete language, and machine code telepathy.
-- 🛠️ **Universal Control:** Fixing Wi-Fi routers by mere gaze, reverse-engineering reality itself, rewriting the laws of thermodynamics, and bending quantum mechanics to whim.
-- 🎮 **God-Tier Mastery:** Undefeated across all dimensions, holding absolute supremacy over every game, sport, science, and art form ever conceived.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,cpp,bash,html,css,react,nextjs,nodejs,django,flask,docker,kubernetes,git,github,linux,postgres,mongodb,redis" />
+</p>---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent"/>
+</p>---
+
+⭐ Featured Projects
+
+🔹 Project One
+
+A short description of your main project.
+
+"Python" "Docker" "PostgreSQL"
+
+🔹 Project Two
+
+A short description of another project you're proud of.
+
+"TypeScript" "React" "Node.js"
+
+🔹 Project Three
+
+A useful tool, experiment, or open-source project.
+
+"Rust" "Linux" "CLI"
 
 ---
 
-## 🛠️ Ecosystem, Tools & Universal Dominance
+📈 Coding Activity
+
+<!--START_SECTION:waka-->Python        ███████████████░░░░░░░░░░   45%
+TypeScript    ██████████░░░░░░░░░░░░░░░   30%
+JavaScript    █████░░░░░░░░░░░░░░░░░░░░   15%
+Other         ███░░░░░░░░░░░░░░░░░░░░░░   10%
+
+<!--END_SECTION:waka-->---
+
+🧰 Setup
+
+Editor        → VS Code / Neovim
+OS            → Linux
+Version Ctrl  → Git + GitHub
+Containers    → Docker
+Workflow      → Build • Test • Ship
+
+---
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+</p>---
+
+✍️ Writing
+
+I write about software engineering, programming, developer tools, open source, and projects.
+
+---
+
+🤝 Connect
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://www.lua.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
-</p>
-
-> *Note: These tools only exist because I permit them to.*
-
----
-
-## 📊 Universal Stats
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <b>Void</b>
+  <br>
+  Build quietly. Ship consistently.
 </p>
