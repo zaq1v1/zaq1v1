@@ -38,53 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaq1v1&layout=compact&hide_border=true&theme=transparent" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaq1v1&hide_border=true&theme=transparent"/>
-</p>
-
----
-
-### ⚡ Sovereign Creations
-
-> **[Core Engine Alpha](https://github.com/zaq1v1)**
-> * Autonomous background processing and data pipeline supremacy.
-> `Python` `Docker` `PostgreSQL`
-
-> **[Nexus Interface](https://github.com/zaq1v1)**
-> * High-velocity, zero-latency reactive client architecture.
-> `TypeScript` `React` `Node.js`
-
-> **[Shadow CLI Utility](https://github.com/zaq1v1)**
-> * Low-level system manipulation running entirely off-grid.
-> `Rust` `Linux` `CLI`
-
----
-
-### 🧰 The Arsenal & Environment
-- **Editor:** VS Code / Neovim — *The scalpel of the digital surgeon.*
-- **OS:** Linux — *Total sovereignty over the metal.*
-- **Version Control:** Git & GitHub — *The historical ledger of absolute progress.*
-- **Containers:** Docker — *Entire sovereign realms isolated at will.*
-
----
-
-### 🏆 Conquest Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaq1v1&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-### 🌐 Establish Connection
-<p align="center">
-  <a href="https://github.com/zaq1v1">
-    <img src="https://img.shields.io/badge/GitHub-Sovereign_Node-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Secure_Channel-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
