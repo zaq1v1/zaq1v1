@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+Void;Absolute+Code.+Infinite+Control.;Engineering+Beyond+The+Surface.;Build.+Break.+Rebuild." alt="Void" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+Unconcerned;Absolute+Code.+Infinite+Control.;Engineering+Beyond+The+Surface.;Build.+Break.+Rebuild." alt="Unconcerned" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-<code>[ VOID ]</code>
+<code>[ Unconcerned ]</code>
 &nbsp;•&nbsp;
 <code>[ SYSTEM ARCHITECT ]</code>
 &nbsp;•&nbsp;
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### ◈ THE VOID PROTOCOL ◈
+### ◈ THE Unconcerned PROTOCOL ◈
 
 `CODE` → `SYSTEMS` → `AUTOMATION` → `INFRASTRUCTURE` → `SECURITY`
 
@@ -186,7 +186,7 @@ System Design
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│                      VOID MISSION                        │
+│                      Unconcerned MISSION                        │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  BUILD       → Turn ideas into real software             │
