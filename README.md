@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+Unconcerned;Absolute+Code.+Infinite+Control.;Engineering+Beyond+The+Surface.;Build.+Break.+Rebuild." alt="Unconcerned" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+Raze;Absolute+Code.+Infinite+Control.;Engineering+Beyond+The+Surface.;Build.+Break.+Rebuild." alt="Raze" />
 
 <br>
 
-<em>"The machine does not resist the hand that truly understands its pulse."</em>
+<em>"."</em>
 
 <br><br>
 
-<code>[ Unconcerned ]</code>
+<code>[ Raze ]</code>
 &nbsp;•&nbsp;
 <code>[ SYSTEM ARCHITECT ]</code>
 &nbsp;•&nbsp;
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### ◈ THE Unconcerned PROTOCOL ◈
+### ◈ THE Raze PROTOCOL ◈
 
 `CODE` → `SYSTEMS` → `AUTOMATION` → `INFRASTRUCTURE` → `SECURITY`
 
@@ -186,7 +186,7 @@ System Design
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│                      Unconcerned MISSION                        │
+│                      Raze MISSION                        │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  BUILD       → Turn ideas into real software             │
@@ -196,7 +196,7 @@ System Design
 │  SECURE      → Engineer with security in mind             │
 │  SHIP        → Turn concepts into working systems        │
 │                                                          │
-└──────────────────────────────────────────────────────────┘║                       V O I D                        ║
+└──────────────────────────────────────────────────────────┘║                       R a z e                       ║
 ║                                                      ║
 ║              BUILD QUIETLY.                         ║
 ║              THINK DEEPLY.                          ║
