@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+Raze;Absolute+Code.+Infinite+Control.;Engineering+Beyond+The+Surface.;Build.+Break.+Rebuild." alt="Raze" />
 
+
+![Image Alt](https://github.com/zaq1v1/zaq1v1/blob/main/logo.png) 
+
+
 <br>
 
 <em></em>
